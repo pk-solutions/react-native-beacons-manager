@@ -13,11 +13,5 @@ BACKGROUND_MODES.md
 CHANGELOG.md
 ISSUE_TEMPLATE.md
 
-android/src
-android/gradle
 android/.project
-android/build.gradle
-
 android/.settings
-android/gradlew
-android/gradlew.bat
