@@ -12,3 +12,14 @@ images
 BACKGROUND_MODES.md
 CHANGELOG.md
 ISSUE_TEMPLATE.md
+
+.vscode
+android/.settings
+.prettierignore
+.prettierrc
+.nvmrc
+.flowconfig
+yarn-error.log
+yarn.lock
+
+android
