@@ -12,3 +12,6 @@ images
 BACKGROUND_MODES.md
 CHANGELOG.md
 ISSUE_TEMPLATE.md
+
+android/src
+android/gradle
