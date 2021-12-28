@@ -17,3 +17,6 @@ android/src
 android/gradle
 android/.project
 android/build.gradle
+
+android/.settings
+android/gradlew
