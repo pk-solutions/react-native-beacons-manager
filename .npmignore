@@ -20,3 +20,4 @@ android/build.gradle
 
 android/.settings
 android/gradlew
+android/gradlew.bat
